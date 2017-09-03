@@ -12,6 +12,8 @@ cp ../startbootstrap-new-age/index.html .
 cp ../startbootstrap-new-age/js/new-age.min.js js/
 cp ../startbootstrap-new-age/css/new-age.min.css css/
 cp ../startbootstrap-new-age/vendor/bootstrap/css/bootstrap.min.css vendor/bootstrap/css/
+#cp ../startbootstrap-new-age/vendor/bootstrap/css/bootstrap.min.css.map vendor/bootstrap/css/
+cp ../startbootstrap-new-age/node_modules/bootstrap/dist/css/bootstrap.min.css.map vendor/bootstrap/css/
 cp ../startbootstrap-new-age/vendor/font-awesome/css/font-awesome.min.css vendor/font-awesome/css/
 cp ../startbootstrap-new-age/vendor/simple-line-icons/css/simple-line-icons.css vendor/simple-line-icons/css/
 cp ../startbootstrap-new-age/device-mockups/device-mockups.min.css device-mockups/
