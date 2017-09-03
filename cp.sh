@@ -7,6 +7,7 @@ mkdir -p vendor/font-awesome/css
 mkdir -p vendor/simple-line-icons/css
 mkdir -p device-mockups
 mkdir -p img
+mkdir -p device-mockups/iphone_6_plus
 
 cp ../startbootstrap-new-age/index.html .
 cp ../startbootstrap-new-age/js/new-age.min.js js/
@@ -21,6 +22,6 @@ cp ../startbootstrap-new-age/device-mockups/device-mockups.min.css device-mockup
 cp -r ../startbootstrap-new-age/img .
 #cp ../startbootstrap-new-age/img/*.svg img/
 cp -r ../startbootstrap-new-age/vendor .
-#cp ../startbootstrap-new-age/
+cp ../startbootstrap-new-age/device-mockups/iphone_6_plus/iphone_6_plus_white_port.png device-mockups/iphone_6_plus/
 #cp ../startbootstrap-new-age/
 #cp ../startbootstrap-new-age/
