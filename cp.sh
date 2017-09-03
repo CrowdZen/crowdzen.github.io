@@ -19,6 +19,7 @@ cp ../startbootstrap-new-age/vendor/simple-line-icons/css/simple-line-icons.css 
 cp ../startbootstrap-new-age/device-mockups/device-mockups.min.css device-mockups/
 cp ../startbootstrap-new-age/img/demo-screen-1.jpg img/
 cp ../startbootstrap-new-age/img/*.svg img/
+cp -r ../startbootstrap-new-age/vendor .
 #cp ../startbootstrap-new-age/
 #cp ../startbootstrap-new-age/
 #cp ../startbootstrap-new-age/
